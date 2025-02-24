@@ -1,0 +1,14 @@
+The web page holds a hidden key,
+Just view the source, and you will see,
+A tangled Javascript hard to read,
+Online tools will meet your need.
+
+Deobfuscation, make it plain,
+The answer hides within the chain,
+Look for the comments, clear and bright,
+The flag's revealed within the light.
+
+No server access, no exploit's trace,
+Just client-side, the whining place
+Decode the script, the task's begun,
+The flag awaits, when you are done.
